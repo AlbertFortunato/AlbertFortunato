@@ -20,6 +20,6 @@
   
 </div>
 
-  <div>
-  ![Snake animation](https://github.com/AlbertFortunato/AlbertFortunato/blob/main/.github/workflows/main.yml)
-  </div>
+
+ ![Snake animation](https://github.com/AlbertFortunato/AlbertFortunato/blob/output/github-contribution-grid-snake.svg)
+
