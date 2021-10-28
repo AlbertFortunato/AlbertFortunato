@@ -15,6 +15,6 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
 
-  
+  ![Snake animation](https://github.com/AlbertFortunato/AlbertFortunato/blob/main/.github/workflows/main.yml)
 </div>
   
