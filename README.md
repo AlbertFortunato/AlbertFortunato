@@ -2,7 +2,7 @@
 
 - 🔭 Hoje eu trabalho com Java 
 - 🌱 Estudando SpringBoot, Reacjs, JavaScript
-- 😄 Pronouns: ele/dele
+- Desenvolvedor em constante evolução 😄 
 
 <div align="center">
   <a href="https://github.com/AlbertFortunato">
