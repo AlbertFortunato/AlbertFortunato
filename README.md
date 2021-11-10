@@ -1,8 +1,8 @@
-### Olá! Eu sou o Albert Fortunato.
+### Olá! Seja bem vindo!!  😄
 
-- 🔭 Hoje eu trabalho com Java 
+- 🔭 Atuo com Java 
 - 🌱 Estudando SpringBoot, Reacjs, JavaScript
-    Desenvolvedor em constante evolução 😄 
+- 💻 Desenvolvedor em constante evolução  
 
 <div align="center">
   <a href="https://github.com/AlbertFortunato">
