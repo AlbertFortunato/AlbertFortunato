@@ -1,7 +1,7 @@
 ### Olá! Seja bem vindo!!  😄
 
 - 🔭 Atuo com Java 
-- 🌱 Estudando SpringBoot, Reacjs, JavaScript
+- 🌱 Estudando SpringBoot, Reacjs e JavaScript
 - 💻 Desenvolvedor em constante evolução  
 
 <div align="center">
