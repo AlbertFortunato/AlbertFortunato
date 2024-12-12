@@ -1,7 +1,7 @@
 ### Olá! Seja bem vindo!!  😄
 
 - 🔭 Atuo com Java e Python
-- 🌱 Estudando SpringBoot, Angular, Python
+- 🌱 Estudando Kotlin, Angular, Python
 - 💻 Desenvolvedor em constante evolução  
 
 <div align="center">
@@ -16,6 +16,7 @@
   <img align="center" alt="Albert-Ja" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Albert-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
   <img align="center" alt="Albert-Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-plain.svg">
+  <img align="center" alt="Albert-Kotlin" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg">
   
 </div>
 
