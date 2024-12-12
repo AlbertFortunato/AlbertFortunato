@@ -14,8 +14,8 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Albert-Ja" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Albert-Python" height="50" width="60" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg)">
-  <img align="center" alt="Albert-Angular" height="50" width="60" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-plain.svg)">
+  <img align="center" alt="Albert-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
+  <img align="center" alt="Albert-Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-plain.svg">
   
 </div>
 
